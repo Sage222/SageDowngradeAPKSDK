@@ -1,0 +1,1 @@
+.\patch_apk.ps1 -ApkPath ".\app.apk" -MinSdk 28
